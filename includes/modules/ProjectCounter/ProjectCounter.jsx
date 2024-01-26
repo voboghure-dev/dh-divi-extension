@@ -5,9 +5,9 @@ import React, { Component } from 'react';
 import './style.css';
 
 
-class HelloWorld extends Component {
+class ProjectCounter extends Component {
 
-  static slug = 'dhde_hello_world';
+  static slug = 'dhde_project_counter';
 
   render() {
     const Content = this.props.content;
@@ -20,4 +20,4 @@ class HelloWorld extends Component {
   }
 }
 
-export default HelloWorld;
+export default ProjectCounter;

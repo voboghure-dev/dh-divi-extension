@@ -1,3 +1,3 @@
-import HelloWorld from './HelloWorld/HelloWorld';
+import ProjectCounter from './ProjectCounter/ProjectCounter';
 
-export default [HelloWorld];
+export default [ProjectCounter];
