@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: DH Divi Extension
-Plugin URI:  
+Plugin Name: Beheard Divi Extension
+Plugin URI:
 Description: Divi Extension for Project counter
 Version:     1.0.0
 Author:      DevHelpers
-Author URI:  
+Author URI:
 License:     GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: dhde-dh-divi-extension
